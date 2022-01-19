@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toastytortilla
-- 👀 I’m interested in learning about the world of computer science and making some useful, well-designed programs.
-- 🌱 I’m currently learning basic computer science skills in C, Python, Javascript, CSS, and HTML.
+- 👀 I’m interested in learning about the world of computer science and making some useful, well-designed programs. Ultimately, I'm looking to start a career as a software engineer.
+- 🌱 I’m currently learning the fundamentals of computer science in C, Python, Javascript, CSS, and HTML.
 - 💞️ I’m looking to collaborate on small projects that will help me master the fundamentals of programming and computer science.
 - 📫 How to reach me: dvdicocco@gmail.com
